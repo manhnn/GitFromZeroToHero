@@ -93,4 +93,14 @@ class MyDayTableViewCell: UITableViewCell {
     @IBAction func btnImportantAction(_ sender: Any) {
         delegate?.myDayTableViewCell(self, didTapImportantButtonWith: reminder!)
     }
+    
+    
+    
+    
+    
+    
+    
+    func sinhpro() {
+        
+    }
 }
