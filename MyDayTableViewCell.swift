@@ -47,6 +47,7 @@ class MyDayTableViewCell: UITableViewCell {
         else {
             lblDateTime.textColor = .systemRed
         }
+        print("hihi")
     }
     
     // MARK: - Custom Cell
@@ -78,6 +79,7 @@ class MyDayTableViewCell: UITableViewCell {
         if cell.isComplete {
             self.btnComplete.setImage(UIImage(named: "check"), for: .normal)
         }
+        print("hihi")
         else {
             self.btnComplete.setImage(UIImage(named: "rec"), for: .normal)
         }
