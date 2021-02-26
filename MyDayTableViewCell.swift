@@ -96,11 +96,12 @@ class MyDayTableViewCell: UITableViewCell {
     
     
     
-    
-    
-    
-    
+
     func sinhpro() {
+        
+    }
+    
+    func test() {
         
     }
 }
